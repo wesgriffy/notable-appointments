@@ -1,0 +1,48 @@
+{
+    "doctors": [
+    {
+        "doctor_firstname": "Sterling",
+        "doctor_lastname": "Archer",
+        "doctorID": 1,
+        "appointment_day": ["Dec202019", "Dec202019", "Dec202019", "Dec212019", "Dec212019", "Dec212019"],
+        "appointment_time": ["8:00AM", "9:15AM", "9:30AM", "10:00AM", "11:30AM", "12:00PM"],
+        "patient_firstname": ["Joe", "Jack", "Tom", "Cam", "Aaron", "Leonard"],
+        "patient_lastname": ["Thomas", "Bauuer", "Brady", "Newton", "Rodgers", "Fournette"],
+        "type": ["New Patient", "Follow-up", "Follow-up", "Follow-up", "New Patient", "New Patient"],
+        "appointmentID": [1,2,3,4,5,6]
+    },
+    {
+        "doctor_firstname": "Lana",
+        "doctor_lastname": "Kane",
+        "doctorID": 2,
+        "appointment_day": ["Dec202019", "Dec202019", "Dec202019", "Dec212019", "Dec212019", "Dec212019"],
+        "appointment_time": ["8:30AM", "9:30AM", "9:45AM", "10:30AM", "11:15AM", "12:15PM"],
+        "patient_firstname": ["DJ", "Curtis", "Nick", "Lamar", "Mark", "Aaron"],
+        "patient_lastname": ["Moore", "Samuel", "Bosa", "Jackson", "Ingram", "Jones"],
+        "type": ["Follow-up", "New Patient", "New Patient", "Follow-up", "New Patient", "New Patient"],
+        "appointmentID": [1,2,3,4,5,6]
+    },
+    {
+        "doctor_firstname": "Ray",
+        "doctor_lastname": "Gilette",
+        "doctorID": 3,
+        "appointment_day": ["Dec202019", "Dec202019", "Dec202019", "Dec212019", "Dec212019", "Dec212019"],
+        "appointment_time": ["8:15AM", "9:15AM", "9:45AM", "10:15AM", "11:45AM", "12:30PM"],
+        "patient_firstname": ["Damien", "Austin", "Allen", "Mark", "Jeff", "Julian"],
+        "patient_lastname": ["Williams", "Ekeler", "Robinson", "Andrews", "Wilson", "Edelman"],
+        "type": ["New Patient", "New Patient", "New Patient", "Follow-up", "Follow-up", "Follow-up"],
+        "appointmentID": [1,2,3,4,5,6]
+    },
+    {
+        "doctor_firstname": "Carol/Cheryl",
+        "doctor_lastname": "Tunt",
+        "doctorID": 4,
+        "appointment_day": ["Dec202019", "Dec202019", "Dec202019", "Dec212019", "Dec212019", "Dec212019"],
+        "appointment_time": ["8:00AM", "9:00AM", "9:15AM", "9:30AM", "11:00AM", "12:45AM"],
+        "patient_firstname": ["Julio", "Calvin", "Randy", "Jordy", "Antonio", "Christian"],
+        "patient_lastname": ["Jones", "Johnson", "Moss", "Nelson", "Brown", "McCaffery"],
+        "type": ["Follow-up", "Follow-up", "Follow-up", "New Patient", "Follow-up", "New Patient"],
+        "appointmentID": [1,2,3,4,5,6]
+    }
+]
+    }
